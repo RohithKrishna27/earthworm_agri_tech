@@ -24,7 +24,7 @@ class _LoginPageState extends State<LoginPage>
   final Color _primaryGreen = Color.fromARGB(255, 17, 219, 24);
   final Color _darkGreen = Color.fromARGB(255, 42, 139, 181);
   final Color _brown = Color.fromARGB(255, 42, 139, 181);
-  final Color _red = Color.fromARGB(255, 192, 57, 57);
+  final Color _red = Color.fromRGBO(192, 57, 57, 1);
 
   @override
   void initState() {
